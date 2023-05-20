@@ -1,14 +1,14 @@
 <p align="center">
-  <img src=".github/preview.png" alt="Demonstração do projeto" width="100%" />
+  <img src=".github/preview.png" alt="Project demo" width="100%" />
 </p>
 
-## 🖥️ Projeto
+## 🖥️ Project
 
-Esse é um projeto Web Responsivo de uma cápsula do tempo para exibir memórias em uma linha do tempo.
+This is a simple example projeto of a Time Capsule Web Responsive to display memories on a timeline.
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecnologias:
+This project was developed during the Rocketseat's NLW using the following technologies:
 
 - HTML
 - CSS
@@ -16,6 +16,6 @@ Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecno
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através
-[desse link](https://www.figma.com/file/xllhBAkuLVflqR1WB9SzTj/Capsula-do-Tempo---Trilha-Explorer?type=design&node-id=306%3A3&t=l2mqywaCaALXnqil-1).
-É necessário ter uma conta no [Figma](https://www.figma.com)
+You can see the project layout through
+[this link](https://www.figma.com/file/xllhBAkuLVflqR1WB9SzTj/Capsula-do-Tempo---Trilha-Explorer?type=design&node-id=306%3A3&t=l2mqywaCaALXnqil-1).
+You must have an account at [Figma](https://www.figma.com)
