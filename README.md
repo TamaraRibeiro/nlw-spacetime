@@ -4,7 +4,7 @@
 
 ## 🖥️ Project
 
-This is a simple example projeto of a Time Capsule Web Responsive to display memories on a timeline.
+This is a simple example project of a Time Capsule Web Responsive to display memories on a timeline.
 
 ## 🚀 Technologies
 
